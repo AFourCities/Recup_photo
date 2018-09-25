@@ -11,3 +11,5 @@ https://www.vogue.com/fashion-shows/spring-2019-ready-to-wear/marni/slideshow/co
 - Récupérer le chemin et nom du fichier. Exemple si votre fichier se trouve dans C:\Users\Admin\Desktop et s'appele test.txt alors copier "C:\Users\Admin\Desktop\test.txt"
 - Lancer le progamme et coller "C:\Users\Admin\Desktop\test.txt" puis taper Entrée
 - Le programme se lance et récupère les photos dans des dossiers qui se trouvent dans C:\Users\Admin\Desktop
+
+- Pour information ce programme a aussi été compilé en .exe
