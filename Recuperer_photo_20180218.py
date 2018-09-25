@@ -125,7 +125,7 @@ def imagelignealigne (url, path, pathdossier, dirname):
    savedfile2.write(fullresult)
    savedfile2.close()
 
-   #on rouvre le fichier titi3.txt pour prendre lignes à lignes les URL photos et récupérer les photos
+   #on rouvre le fichier titi3.txt pour prendre ligne à ligne les URL photo et récupérer les photos
    savedfile3 = open(path + "\\" + "titi3.txt", "r")
    array_cont=savedfile3.read().splitlines()
    array_cont=list(set(array_cont))
